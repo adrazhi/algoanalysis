@@ -1,0 +1,28 @@
+{
+  "summary": {
+    "title": "Test",
+    "owner": "dfdf",
+    "description": "dfdfdf"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "asdfasdf"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "aasdfadsf",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "dfdf"
+  },
+  "location": {
+    "organisation": "albtop",
+    "repo": "algoanalysis",
+    "branch": "master",
+    "model": "Test"
+  }
+}
