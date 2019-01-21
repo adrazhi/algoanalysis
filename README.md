@@ -1,1 +1,1 @@
-Algorithm Analysis projects. Plotted graphs in R to analyze runtime.
+Algorithm Analysis projects. Plotted graphs in R to analyze algorithm runtimes and performances.
